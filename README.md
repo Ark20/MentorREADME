@@ -1,6 +1,7 @@
 # Mentor README
 ## Reggie Williams 
-![Me talking to people](https://imgur.com/zb98kCg)
+### Hours of availability: 
+![](https://images.pexels.com/photos/433502/pexels-photo-433502.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
 
 - [Calendar Link](https://calendly.com/reggie-williams/15min)
 - [Email Address](mailto:reggie@teamtreehouse.com)
